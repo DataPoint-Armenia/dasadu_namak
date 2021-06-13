@@ -1,5 +1,5 @@
 usuchich = "tikin Tvoydiznak"
-qanak = 5
+qanak = 10
 inch = "gata"
 adzakan = "hianali"
 for i in range(qanak):
